@@ -13,6 +13,7 @@ DevOps: Containerization of applications with Docker and automation of tests and
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/lucas-santiago-30423628b/)
 
 ![lucassantiagomartins's Stats](https://github-readme-stats.vercel.app/api?username=lucassantiagomartins&theme=dracula&show_icons=true&hide_border=true&count_private=true) 
+
 ![lucassantiagomartins's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantiagomartins&theme=dracula&show_icons=true&hide_border=true&layout=compact) 
 
 ### Technologies that I use in my daily life
