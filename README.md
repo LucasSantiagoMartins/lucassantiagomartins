@@ -1,6 +1,6 @@
 ## Hi there i'm Lucas Santiago Martins
 
-👋 I'm a BACKEND developer passionate about creating robust and efficient solutions. I have experience in several technologies and frameworks, mainly in Asp.net Core, Nodjs and Flutter. 💻 My skills include:
+👋 I'm a BACKEND developer passionate about creating robust and efficient solutions. I have experience in several technologies and frameworks, mainly in Asp.net Core, Nodejs and Flutter. 💻 My skills include:
 
 Backend: Creating scalable, high-performance applications.
 
