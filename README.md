@@ -11,7 +11,7 @@ DevOps: Containerization of applications with Docker and automation of tests and
 #### I always try to update myself with the best practices and new technologies to deliver the best possible result. I am always open to new opportunities and challenges.
 
 ![lucassantiagomartins's Stats](https://github-readme-stats.vercel.app/api?username=lucassantiagomartins&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-
+![lucassantiagomartins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucassantiagomartins&theme=vue-dark&hide_border=true)
 ![lucassantiagomartins's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantiagomartins&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 ### Technologies that I use in my daily life
