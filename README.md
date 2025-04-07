@@ -4,7 +4,7 @@
 
 Backend: Creating scalable, high-performance applications.
 
-APIs: Development of RESTful APIs with Asp.Net Core and Express.js
+APIs: Development of RESTful APIs with Asp.Net Core and Express.js.
 
 DevOps: Containerization of applications with Docker and automation of tests and deployments with Postman. 
 
