@@ -6,7 +6,7 @@ Backend: Creating scalable, high-performance applications.
 
 APIs: Development of RESTful APIs with Asp.Net Core and Express.js.
 
-DevOps: Containerization of applications with Docker and automation of tests and deployments with Postman. 
+DevOps: Containerization of applications with Docker and automation of tests and deployments with Postman.
 
 #### I always try to update myself with the best practices and new technologies to deliver the best possible result. I am always open to new opportunities and challenges.
 
