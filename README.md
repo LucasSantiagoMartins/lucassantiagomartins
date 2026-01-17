@@ -1,8 +1,8 @@
 ## Hi there I'm Lucas Santiago Martins
 
-👋 I am a Full Stack Developer with over 8 years of experience, specialized in building complete web and mobile applications, exploring the art of
-programming to turn ideas into real-world solutions. I have strong expertise in Artificial Intelligence integrations, automated bots, and process automation, 
-helping businesses automate customer support, optimize workflows, and scale operations efficiently and securely.
+👋 I am a Full Stack Developer with over 8 years of experience, specialized in building complete web and mobile applications
+exploring the art of programming to turn ideas into real-world solutions. I have strong expertise in Artificial Intelligence integrations
+automated bots, and process automation, helping businesses automate customer support, optimize workflows, and scale operations efficiently and securely.
 
 
 ![lucassantiagomartins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucassantiagomartins&theme=blueberry&hide_border=true)
