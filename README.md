@@ -1,14 +1,9 @@
 ## Hi there I'm Lucas Santiago Martins
 
-👋 I'm a BACKEND developer passionate about creating robust and efficient solutions. I have experience in several technologies and frameworks, mainly in Asp.net Core, Nodejs and Flutter. 💻 My skills include:
+👋 I am a Full Stack Developer with over 8 years of experience, specialized in building complete web and mobile applications, exploring the art of
+programming to turn ideas into real-world solutions. I have strong expertise in Artificial Intelligence integrations, automated bots, and process automation, 
+helping businesses automate customer support, optimize workflows, and scale operations efficiently and securely.
 
-Backend: Creating scalable, high-performance applications.
-
-APIs: Development of RESTful APIs with Asp.Net Core and Express.js.
-
-DevOps: Containerization of applications with Docker and automation of tests and deployments with Postman.
-
-#### I always try to update myself with the best practices and new technologies to deliver the best possible result. I am always open to new opportunities and challenges.
 
 ![lucassantiagomartins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucassantiagomartins&theme=blueberry&hide_border=true)
 
