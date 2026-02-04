@@ -11,10 +11,10 @@ automated bots, and process automation, helping businesses automate customer sup
 
 ![lucassantiagomartins's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantiagomartins&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
-### Technologies that I use in my daily life
+### Technologies that I use 
 
 
-#### Backend & Core
+#### Backend
 
 <div style="display:inline_block">
 <img src="https://github.com/user-attachments/assets/149e1501-9812-49ba-a631-9be0df5d02ba"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=whitek">
@@ -32,7 +32,6 @@ automated bots, and process automation, helping businesses automate customer sup
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"> 
 <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"> 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 
 #### Tools & Platforms
