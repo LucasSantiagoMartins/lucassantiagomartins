@@ -1,8 +1,42 @@
 ## Hi there I'm Lucas Santiago Martins
 
-👋 I am a Full Stack Developer with over 8 years of experience, specialized in building complete web and mobile applications
-exploring the art of programming to turn ideas into real-world solutions. I have strong expertise in Artificial Intelligence integrations
-automated bots, and process automation, helping businesses automate customer support, optimize workflows, and scale operations efficiently and securely.
+I am a Full Stack Engineer with a strong specialization in backend architecture and distributed systems,
+focused on building scalable, reliable, and production-ready applications.
+
+I design and develop end-to-end systems that support real business operations from robust APIs to 
+high-performance web and mobile applications. My work goes beyond implementation; I focus on 
+structuring systems that are maintainable, scalable, and aligned with long-term business goals.
+
+### What I Deliver
++ Scalable backend architectures and well-structured APIs
++ High-performance, secure, and maintainable systems
++ Complex business logic and workflow orchestration
++ Responsive web platforms and admin dashboards
++ Cross-platform mobile applications
++ Integration with external services (payments, CRM, ERP)
++ System design focused on scalability, reliability, and efficiency
+
+### Technical Expertise
+
+#### Backend
++ Node.js (TypeScript, NestJS + Fastify)
++ ASP.NET Core
++ RESTful APIs, microservices, distributed systems
+ 
+#### Frontend
++ React, Next.js
+
+#### Mobile
++ Flutter
+
+### Infrastructure & Architecture
++ System design and scalability patterns
++ Queues, background jobs, and asynchronous processing
++ API integrations and service orchestration
+
+I prioritize clean architecture, performance, and reliability ensuring systems can scale and evolve without 
+becoming fragile. I’m comfortable working across the entire product lifecycle, from initial design decisions
+to production deployment and optimization
 
 
 ![lucassantiagomartins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucassantiagomartins&theme=blueberry&hide_border=true)
