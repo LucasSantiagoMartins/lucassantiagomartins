@@ -35,8 +35,7 @@ structuring systems that are maintainable, scalable, and aligned with long-term 
 + API integrations and service orchestration
 
 I prioritize clean architecture, performance, and reliability ensuring systems can scale and evolve without 
-becoming fragile. I’m comfortable working across the entire product lifecycle, from initial design decisions
-to production deployment and optimization
+becoming fragile. I’m comfortable working across the entire product lifecycle, from initial design decisions to production deployment and optimization
 
 
 ![lucassantiagomartins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucassantiagomartins&theme=blueberry&hide_border=true)
