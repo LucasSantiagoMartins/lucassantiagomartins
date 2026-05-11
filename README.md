@@ -4,8 +4,9 @@ I am a Full Stack Engineer with a strong specialization in backend architecture 
 focused on building scalable, reliable, and production-ready applications.
 
 I design and develop end-to-end systems that support real business operations from robust APIs to 
-high-performance web and mobile applications. My work goes beyond implementation; I focus on 
-structuring systems that are maintainable, scalable, and aligned with long-term business goals.
+high-performance web and mobile applications. My work goes beyond implementation; 
+
+I focus on structuring systems that are maintainable, scalable, and aligned with long-term business goals.
 
 ### What I Deliver
 + Scalable backend architectures and well-structured APIs
