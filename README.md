@@ -40,12 +40,7 @@ becoming fragile. I’m comfortable working across the entire product lifecycle,
 
 ![lucassantiagomartins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucassantiagomartins&theme=blueberry&hide_border=true)
 
-![lucassantiagomartins's Stats](https://github-readme-stats.vercel.app/api?username=lucassantiagomartins&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-
-![lucassantiagomartins's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantiagomartins&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-
 ### Technologies that I use 
-
 
 #### Backend
 
