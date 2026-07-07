@@ -1,82 +1,196 @@
-## Hi there I'm Lucas Santiago Martins
+# Hi 👋 I'm Lucas Santiago Martins
 
-I am a Full Stack Engineer with a strong specialization in backend architecture and distributed systems,
-focused on building scalable, reliable, and production-ready applications. I design and develop end-to-end 
-systems that support real business operations from robust APIs to high-performance web and mobile applications.
-My work goes beyond implementation; 
+## Backend Engineer | Software Architect | Distributed Systems
 
-I focus on structuring systems that are maintainable, scalable, and aligned with long-term business goals.
+I am a Backend Engineer specialized in designing scalable, resilient, and production-ready systems.
 
-### What I Deliver
-+ Scalable backend architectures and well-structured APIs
-+ High-performance, secure, and maintainable systems
-+ Complex business logic and workflow orchestration
-+ Responsive web platforms and admin dashboards
-+ Cross-platform mobile applications
-+ Integration with external services (payments, CRM, ERP)
-+ System design focused on scalability, reliability, and efficiency
+My expertise goes beyond building APIs. I design architectures capable of supporting real business growth, focusing on scalability, reliability, performance, and maintainability.
 
-### Technical Expertise
+I have experience leading backend architecture, designing distributed systems, implementing event-driven solutions, and building cloud-ready applications using modern engineering practices.
 
-#### Backend
-+ Node.js (TypeScript, NestJS + Fastify)
-+ ASP.NET Core
-+ RESTful APIs, microservices, distributed systems
- 
-#### Frontend
-+ React, Next.js
+---
 
-#### Mobile
-+ Flutter
+# 🚀 What I Build
 
-### Infrastructure & Architecture
-+ System design and scalability patterns
-+ Queues, background jobs, and asynchronous processing
-+ API integrations and service orchestration
+- Scalable Backend Architectures
+- High-performance REST APIs
+- Distributed Systems & Microservices
+- Event-Driven Applications
+- Authentication & Authorization
+- Business Workflow Automation
+- Background Jobs & Queue Processing
+- Payment Gateway Integrations
+- Cloud Storage Integrations
+- Production Infrastructure
+- Observability & Monitoring
+- Cross-platform Web & Mobile Backends
 
-I prioritize clean architecture, performance, and reliability ensuring systems can scale and evolve without 
-becoming fragile. I’m comfortable working across the entire product lifecycle, from initial design decisions to production deployment and optimization
+---
 
+# 🏗 Core Expertise
 
-![lucassantiagomartins's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucassantiagomartins&theme=blueberry&hide_border=true)
+## Backend
 
-### Technologies that I use 
+- Node.js
+- TypeScript
+- NestJS
+- Fastify
+- ASP.NET Core
 
-#### Backend
+---
 
-<div style="display:inline_block">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"> 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div>
- 
-#### Frontend & Mobile
-<div style="display:inline_block">
+## Architecture
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Microservices
+- Distributed Systems
+- Event-Driven Architecture
+- System Design
+- SOLID Principles
+- Scalable Software Architecture
 
-<div style="display:inline_block">
+---
 
-#### Databases & Messaging Systems
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"> 
-<img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"> 
+## Infrastructure
 
+- Docker
+- VPS Deployment
+- AWS (EC2, S3, IAM)
+- Cloudflare R2
+- Better Stack
+- Firebase Cloud Messaging
+- CI/CD
 
-#### Tools & Platforms
+---
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+## Databases & Messaging
 
-</div>
+- PostgreSQL
+- MySQL
+- Redis
+- RabbitMQ
+
+---
+
+## Frontend
+
+- React
+- Next.js
+
+---
+
+## Mobile
+
+- Flutter
+
+---
+
+# 🔒 Security & Performance
+
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- OWASP Top 10 Best Practices
+- Rate Limiting
+- Data Validation
+- Caching Strategies
+- Performance Optimization
+- API Security
+
+---
+
+# ⚙ Engineering Practices
+
+- API Design
+- Service Orchestration
+- Asynchronous Processing
+- Background Workers
+- Queue-based Architectures
+- Code Maintainability
+- Scalability Patterns
+- Performance-first Development
+
+---
+
+# 🌍 Current Focus
+
+Currently focused on building enterprise-grade backend systems capable of scaling to thousands of concurrent users while maintaining reliability, security, and high performance.
+
+My interests include:
+
+- Software Architecture
+- Distributed Systems
+- Backend Scalability
+- Cloud Infrastructure
+- Event-Driven Systems
+- High Performance APIs
+
+---
+
+# 📈 GitHub Stats
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucassantiagomartins&theme=blueberry&hide_border=true)
+
+---
+
+# 💻 Technologies
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</p>
+
+---
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+
+---
+
+### Mobile
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+---
+
+### Databases & Messaging
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
+
+---
+
+### Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Better%20Stack-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
